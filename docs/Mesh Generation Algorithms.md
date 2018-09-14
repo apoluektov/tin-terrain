@@ -1,3 +1,5 @@
+# Mesh Generation Algorithms
+
 Surface mesh models are commonly used in computer graphics, mechanical engineering and other fields for both visualization and simulation. There are generally two broad categories of such surface mesh models: a Triangulated Regular Network (TRN), and a Triangulated Irregular Network (TIN).
 
 A Triangulated Regular Network (TRN) simply connects input raster points into a uniform grid of triangles. The resulting surface mesh uses the same number of triangles in each unit area, so they are typically quite dense thus unsuitable for data visualization.
