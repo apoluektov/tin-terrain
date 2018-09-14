@@ -4,7 +4,7 @@ A Triangulated Regular Network (TRN) simply connects input raster points into a 
 
 A Triangulated Irregular Network (TIN) takes advantage of the fact that natural terrains often consist of slowly-changing areas that can be modelled with fewer number of triangles per unit area. The resulting mesh uses significantly fewer triangles compared to a TRN, thus is more suitable for both data storage and visualization. The amount of information loss can be controlled by a given meshing parameter (tolerance of the vertical error), thus different levels of compression can be used depending on the user's requirement.
 
-![BCF6BEB84B3CEAA40839170C4E5ACF22.jpg](resources/BCF6BEB84B3CEAA40839170C4E5ACF22.jpg =670x481) (Figures are from: Garland, Michael, and Paul S. Heckbert. "Fast polygonal approximation of terrains and height fields." (1995).)
+![BCF6BEB84B3CEAA40839170C4E5ACF22.jpg](https://raw.githubusercontent.com/heremaps/tin-terrain/algorithm-docs.ylian/docs/resources/BCF6BEB84B3CEAA40839170C4E5ACF22.jpg) (Figures are from: Garland, Michael, and Paul S. Heckbert. "Fast polygonal approximation of terrains and height fields." (1995).)
 
 ## The TIN Model
 
